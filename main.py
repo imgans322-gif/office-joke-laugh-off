@@ -1,1 +1,1 @@
-print("My calendar booked a meeting to cut down on meetings, then a follow-up to ask why no one had time to show up.")
+print("Our office printer only works when nobody watches, which makes it management material.")
