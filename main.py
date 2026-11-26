@@ -1,1 +1,2 @@
-print("Our office printer only works when nobody watches, which makes it management material.")
+# one office joke, printed once
+print("We scheduled a meeting about having too many meetings, then added a follow-up because the first one ran out of time.")
